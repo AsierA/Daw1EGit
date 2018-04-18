@@ -5,5 +5,6 @@ public class helloEGit {
 		//Segundo comentario
 		hola hola = new hola();
 		hola.saludo();
+		hola.adios();
 	}
 }
